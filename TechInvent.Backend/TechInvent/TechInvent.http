@@ -1,0 +1,6 @@
+@TechInvent_HostAddress = http://localhost:5079
+
+GET {{TechInvent_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechInvent", "TechInvent\TechInvent.csproj", "{52305E3F-7F7A-4980-9188-2E8FA506319B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52305E3F-7F7A-4980-9188-2E8FA506319B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52305E3F-7F7A-4980-9188-2E8FA506319B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52305E3F-7F7A-4980-9188-2E8FA506319B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52305E3F-7F7A-4980-9188-2E8FA506319B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B07B06EF-A1C3-4491-BBC3-56E52A664E37}
+	EndGlobalSection
+EndGlobal
